@@ -2,8 +2,8 @@
 
 # Práctica 0: Modelo del sistema respiratorio
 
-## Información del\la estudiante
-Rafael Herrera Aguilar \[22212258]: Paul A. Valle \[05211261]; l22212258@tectijuana.edu.mx
+## Información del estudiante
+Rafael Herrera Aguilar \[22212258]; l22212258@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
